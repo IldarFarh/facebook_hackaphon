@@ -1,0 +1,77 @@
+{
+    "library": {
+        "Vegetable": [
+            "Potatoes",
+            "Carrots",
+            "Onions",
+            "Mushroom",
+            "Pumpkin",
+            "Tomatoes",
+            "Peppers",
+            "Broccoli"
+        ],
+        "Fruit": [
+            "Banana",
+            "Apples",
+            "Strawberry",
+            "Cheries",
+            "Raisins",
+            "Cranberries",
+            "Pineapple"
+        ],    
+        "Proteins":[
+            "Chicken",
+            "Tofu",
+            "Peanut butter",
+            "Beef",
+            "Beans",
+            "Fish"
+        ],
+        "Grains": [
+            "Oats",
+            "Wheat flour",
+            "Cereals",
+            "Rice",
+            "Cornstarch"
+        ],
+        "Condiments": [
+            "Sauce",
+            "Vinegar",
+            "Salad dressing",
+            "Mustard",
+            "Oil",
+            "Margarine",
+            "Lemon juice",
+            "Orange juice",
+            "Tamari",
+            "Stock"
+        ], 
+        "Diary": [
+            "Butter",
+            "Milk",
+            "Cheese",
+            "Cream",
+            "Yogurt"
+        ],
+        "Spices": [
+            "Salt",
+            "Sugar",
+            "Spices"
+        ],
+        "Sweeteners": [
+            "Honey",
+            "Syrup",
+            "Sweets",
+            "Sweetener"
+        ],
+        "Extras": [
+            "Seeds",
+            "Leaven",
+            "Vanilla extract",
+            "Cocoa",
+            "Soy milk"
+        ]
+    },
+    "ingredients" : [],
+    "excluded_recipes" : []
+}
